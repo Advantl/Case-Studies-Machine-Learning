@@ -3,7 +3,7 @@
 
 ## Linear Regression
 - [Dealing with Outliers](https://github.com/Advantl/Case-Studies-Machine-Learning/blob/main/ml_linear_regression_outliers.ipynb)
-- [Dealing with Missing Data]()
+- [Dealing with Missing Data](https://github.com/Advantl/Case-Studies-Machine-Learning/blob/main/ml_linear_regression_missing_data.ipynb)
 - [Feature Engineering]()
 - [Linear Regression Project]()
 
