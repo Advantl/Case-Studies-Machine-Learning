@@ -8,4 +8,7 @@
 - [Linear Regression Project]()
 
 ## Logistic Regression
-- [Logistic Regression Project](https://github.com/Advantl/Case-Studies-Machine-Learning/blob/main/ml_%20logistic_regression_project.ipynb)
+- [Logistic Regression Project](https://github.com/Advantl/Case-Studies-Machine-Learning/blob/main/ml_%20logistic_regression_project.ipynb)  
+
+## K-Nearest Neighbors (KNN)  
+- [K-Nearest Neighbors Project](https://github.com/Advantl/Case-Studies-Machine-Learning/blob/main/ml_knn.ipynb)  
