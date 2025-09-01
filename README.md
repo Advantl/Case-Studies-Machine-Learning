@@ -12,3 +12,6 @@
 
 ## K-Nearest Neighbors (KNN)  
 - [K-Nearest Neighbors Project](https://github.com/Advantl/Case-Studies-Machine-Learning/blob/main/ml_knn.ipynb)  
+
+## Support Vector Machine (SVM)  
+- [Support Vector Machine Project](https://github.com/Advantl/Case-Studies-Machine-Learning/blob/main/ml_svm.ipynb)  
