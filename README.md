@@ -20,4 +20,7 @@
 - [Decision Tree Project](https://github.com/Advantl/Case-Studies-Machine-Learning/blob/main/ml_decision_tree_classification.ipynb):  
   - Exploratory Data Analysis  
   - Анализ оттока клиентов (Customer Churn Analysis)  
-  - Cравнительный анализ алгоритмов DecisionTreeClassifier, RandomForestClassifier, AdaBoostClassifier и GradientBoostingClassifier  
+  - Cравнительный анализ алгоритмов DecisionTreeClassifier, RandomForestClassifier, AdaBoostClassifier и GradientBoostingClassifier
+ 
+## Naive Bayes Classifier  
+- [Naive Bayes Classifier Project](https://github.com/Advantl/Case-Studies-Machine-Learning/blob/main/ml_naive_bayes_classifier.ipynb)  
