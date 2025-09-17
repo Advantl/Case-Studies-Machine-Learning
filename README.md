@@ -24,3 +24,6 @@
  
 ## Naive Bayes Classifier  
 - [Naive Bayes Classifier Project](https://github.com/Advantl/Case-Studies-Machine-Learning/blob/main/ml_naive_bayes_classifier.ipynb)  
+
+## DBSCAN  
+- [DBSCAN Project](https://github.com/Advantl/Case-Studies-Machine-Learning/blob/main/ml_dbscan.ipynb)
