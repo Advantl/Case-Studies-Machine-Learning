@@ -27,3 +27,6 @@
 
 ## DBSCAN  
 - [DBSCAN Project](https://github.com/Advantl/Case-Studies-Machine-Learning/blob/main/ml_dbscan.ipynb)
+
+## Principal Component Analysis (PCA)  
+- [Principal Component Analysis Project](https://github.com/Advantl/Case-Studies-Machine-Learning/blob/main/ml_pca.ipynb)  
